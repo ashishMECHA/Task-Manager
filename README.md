@@ -25,6 +25,8 @@ A task managing application
 
 ## Sneak Peek of Task Managing App
 ![Screenshot](./assets/no-1.PNG?raw=true "Template Screenshot")
+![Screenshot](./assets/no-2.PNG?raw=true "Template Screenshot")
+![Screenshot](./assets/no-3.PNG?raw=true "Template Screenshot")
 
 <!-- <table>
   <tr>
