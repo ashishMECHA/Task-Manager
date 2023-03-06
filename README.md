@@ -24,13 +24,16 @@ A task managing application
 
 
 ## Sneak Peek of Task Managing App
-<table>
+![Screenshot](./assets/no-1.png?raw=true "Template Screenshot")
+![Screenshot](./assets/no-1.png?raw=true "Template Screenshot")
+![Screenshot](./assets/no-1.png?raw=true "Template Screenshot")
+<!-- <table>
   <tr>
     <td><img src="./assets/no-1.PNG" alt="mockup" /></td>
     <td><img src="./assets/no-2.PNG" alt="mockups" /></td>
     <td><img src="./assets/no-3.PNG" alt="mockup" /></td>
   </tr>
-</table>
+</table> -->
 
 ## Contact
 If you want to contact me, you can reach me through below handles.
